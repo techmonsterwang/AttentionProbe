@@ -100,7 +100,7 @@ Our distilled student models (CIFAR-10, CIFAR-100, ImageNet, Tiny-ImageNet, MNIS
 
 
 ### Results
-<img src="figure/results.PNG" width="600">
+<img src="figure/results.png" width="600">
 </p>
 
 
